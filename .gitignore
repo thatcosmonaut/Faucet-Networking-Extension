@@ -3,3 +3,7 @@
 /Faucet Networking.layout
 /bin
 /obj
+visualc/x64
+visualc/Debug
+visualc/Release
+visualc/.vs
